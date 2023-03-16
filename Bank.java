@@ -2,7 +2,7 @@ public class Bank {
 
     private int total;
 
-    public Bank(int total) {
+    public Bank() {
         this.total = total;
     }
 
